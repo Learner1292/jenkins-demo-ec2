@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Another update at $(date)"
+echo "Another update in the file $(date)"
